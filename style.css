@@ -50,3 +50,15 @@ nav {
   flex: 1;
   justify-content: flex-end;
 }
+
+.presentation {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    min-height: 80vh;
+    align-items: center;
+}
+
+.cover img {
+    height: 60vh;
+}
