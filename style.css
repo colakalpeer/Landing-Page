@@ -8,3 +8,24 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+header {
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+
+.logo-container {
+    background-color: lightblue;
+    flex: 1;
+}
+
+nav {
+    background: rgb(189, 230, 173);
+    flex: 1;
+}
+
+.cart {
+    background: rgb(156, 37, 21);
+    flex: 1;
+}
